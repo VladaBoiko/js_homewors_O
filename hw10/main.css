@@ -1,0 +1,13 @@
+.reload{
+    color: red;
+    font-size: 56px;
+    font-weight: bold;
+}
+.delay-reload{
+    color: blue;
+    font-size: 56px;
+    font-weight: bold;
+}
+.table-cell{
+    border: 1px solid black;
+}
